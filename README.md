@@ -8,8 +8,9 @@ Reference:
 3. https://randomnerdtutorials.com/visualize-esp32-esp8266-sensor-readings-from-anywhere/
 4. ChatGPT
 
-My Sketch for ESP-Sensor:
+The Sketch for ESP-Sensor:
+![ESPNOW-Sensor](https://github.com/ZcoolZBrony/Indoor-Environment-Monitoring-Sensors/assets/50166062/c4017387-3afc-4609-ba80-1e1922226f72)
 
-My Sketch for ESP-NOW Receiver and Gateway:
+The Sketch for ESP-NOW Receiver and Gateway:
 ![ESPNOW-Gateway](https://github.com/ZcoolZBrony/Indoor-Environment-Monitoring-Sensors/assets/50166062/1d15a882-295e-487f-9501-43a25340f503)
 
