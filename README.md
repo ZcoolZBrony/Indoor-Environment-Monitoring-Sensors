@@ -11,4 +11,5 @@ Reference:
 My Sketch for ESP-Sensor:
 
 My Sketch for ESP-NOW Receiver and Gateway:
-![ESPNOW-Gateway](https://github.com/ZcoolZBrony/Indoor-Environment-Monitoring-Sensors/assets/50166062/f258c806-329d-4d47-b948-f9a2dd6e7617)
+![ESPNOW-Gateway](https://github.com/ZcoolZBrony/Indoor-Environment-Monitoring-Sensors/assets/50166062/1d15a882-295e-487f-9501-43a25340f503)
+
